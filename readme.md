@@ -1,3 +1,3 @@
 # Monte Hall
 
-A simple Monte Hall simulator in Python
+A simple Monte Hall simulator in R
